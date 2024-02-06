@@ -14,6 +14,13 @@ CityArt is an application designed to showcase and manage monuments within a cit
 
 - Admin Tools: Admin users have access to additional tools and functionalities for managing monuments. This includes the ability to add new monuments, delete existing ones, and modify monument information as needed.
 
+## Usage
+- User Interface: Upon launching the application, users see a map with monument locations. They can navigate to individual monuments and view details about each monument. Users have the 
+                  option to search among monuments and report damage.
+- Curator Interface:  Curator have access to a special interface where they can change the status of monuments and view damage reports.
+- Admin Interface:  Admins have access to an interface where they can add, delete, and modify information about monuments.
+
+
 ## User
 
 ![User-ezgif com-resize](https://github.com/JanPeregrim/CityArt/assets/130740859/31c41d7d-eccd-4766-84d4-acc710fe9cfb)
