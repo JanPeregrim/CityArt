@@ -15,17 +15,16 @@ CityArt is an application designed to showcase and manage monuments within a cit
 - Admin Tools: Admin users have access to additional tools and functionalities for managing monuments. This includes the ability to add new monuments, delete existing ones, and modify monument information as needed.
 
 ## User
-![User](https://github.com/JanPeregrim/CityArt/assets/130740859/55efe913-946b-4ec9-a86a-85e9610cac0d)
+
+![User-ezgif com-resize](https://github.com/JanPeregrim/CityArt/assets/130740859/31c41d7d-eccd-4766-84d4-acc710fe9cfb)
 
 ## Admin
-![Admin](https://github.com/JanPeregrim/CityArt/assets/130740859/08a9ab05-951c-40f4-a274-d0ae0a78c056)
+
+![Admin-ezgif com-resize](https://github.com/JanPeregrim/CityArt/assets/130740859/4fb25f6f-0018-47d6-ae73-57ce5d1eec9b)
 
 ## Curator
-![Curator](https://github.com/JanPeregrim/CityArt/assets/130740859/8499947c-2214-49a3-915f-55daa753cf73)
 
-
-
-
+![Curator-ezgif com-resize](https://github.com/JanPeregrim/CityArt/assets/130740859/26a2bf91-7a9f-4542-957a-2c09aa46c7ef)
 
 ## Technologies Used
 - Backend: The backend of app is built using Python and the Flask framework. It utilizes Azure App Services for hosting and Azure Storage Account for storing monument data.
