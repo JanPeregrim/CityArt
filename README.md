@@ -52,5 +52,5 @@ To deploy app:
 - Database Configuration: Use Microsoft Azure Storage Explorer to configure and manage the monument database stored in Azure Storage Account.
 
 ## Source code
-The source code is in the Azure DevOps.
+The source code is in the Azure DevOps.\
 If you want to know more about project, please contact me.
